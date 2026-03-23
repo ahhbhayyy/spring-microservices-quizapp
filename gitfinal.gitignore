@@ -1,0 +1,20 @@
+# Maven / Build
+target/
+*.jar
+*.war
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+
+# Environment / Secrets
+.env
+application.properties
+application.yml
